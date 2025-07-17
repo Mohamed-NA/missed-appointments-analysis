@@ -21,3 +21,6 @@
 - **`Handcap`**: indicates whether or not the patient is with special needs.
 - **`SMS_received`**: indicates whether or not the patient has received a reminder text message.
 - **`Show-up`**: ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+
+<h3>pairplot</h3>
+<img src="pairplot.png" alt="pairplot" width="1000"/>
