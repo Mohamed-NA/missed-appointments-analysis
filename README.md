@@ -3,7 +3,7 @@
 <a id='intro'></a>
 ## Introduction
 <ul>
-<li>Selected dataset: <a href = "./datasets/noshowappointments-kagglev2-may-2016.csv">No-Show Appointment</a>
+<li>Selected dataset: <a href = "./noshowappointments-kagglev2-may-2016.csv">No-Show Appointment</a>
 </ul>
 
 **Dataset Description**: This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
